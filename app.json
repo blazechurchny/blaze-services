@@ -1,13 +1,5 @@
 {
-  "version": "0.1.1",
+  "version": "0.1.0",
   "downloadUrl": "https://drive.google.com/drive/folders/1zSNVYekQrzniHJCr8otBPFq6PPI67Ao9?usp=drive_link",
-  "alerts": [
-    {
-      "id": "app-update-0.1.1",
-      "type": "app_update",
-      "title": "Application Update Available",
-      "message": "A new version of Blaze Media is available.",
-      "url": "https://drive.google.com/drive/folders/1zSNVYekQrzniHJCr8otBPFq6PPI67Ao9?usp=drive_link"
-    }
-  ]
+  "alerts": []
 }
